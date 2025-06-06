@@ -23,6 +23,33 @@ An automated bot for interacting with the Pharos Testnet, performing swaps, tran
 
 ## Installation ⚙️
 
+``SUSTEM UPGRADE AND UPDATE``
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
+```bash
+sudo apt install -y curl git
+```
+
+```bash
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+```
+
+```bash
+sudo apt install -y nodejs
+```
+
+```bash
+sudo npm install -g npm@latest
+```
+
+```bash
+node -v
+npm -v
+```
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/kuberfreak/P-H-A-R-O-S-TESTNET.git
