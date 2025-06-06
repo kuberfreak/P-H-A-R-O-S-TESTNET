@@ -35,12 +35,25 @@ An automated bot for interacting with the Pharos Testnet, performing swaps, tran
    ```
 
 3. Create a `.env` file in the root directory with your private keys:
+
+```bash
+sudo apt install nano
+nano .env
+```
    ```
    PRIVATE_KEY_1=your_first_private_key_here
    PRIVATE_KEY_2=your_second_private_key_here
    ```
 
 4. (Optional) Add proxies to `proxies.txt` (one per line):
+
+https://www.webshare.io/?referral_code=2zam6sy9dlkt
+get proxy from here 
+
+```bash
+nano proxies.txt
+```
+
    ```
    http://user:pass@ip:port
    socks5://user:pass@ip:port
