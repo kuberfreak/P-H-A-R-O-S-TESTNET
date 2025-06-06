@@ -1,7 +1,7 @@
 # P-H-A-R-O-S-TESTNET
 
 ``DO AT YOUR OWN RISK``
-
+``USE BURNER WALLET``
 
 An automated bot for interacting with the Pharos Testnet, performing swaps, transfers, faucet claims, and daily check-ins to potentially qualify for airdrops.
 
@@ -25,7 +25,7 @@ An automated bot for interacting with the Pharos Testnet, performing swaps, tran
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vikitoshi/Pharos-Auto-Bot.git
+   git clone https://github.com/kuberfreak/P-H-A-R-O-S-TESTNET.git
    cd Pharos-Auto-Bot
    ```
 
