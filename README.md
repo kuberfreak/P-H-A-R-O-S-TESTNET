@@ -105,7 +105,7 @@ screen -S pharos
 ```
 
 ```bash
-cd Pharos-Auto-Bot
+cd P-H-A-R-O-S-TESTNET
 ```
 
 ```bash
