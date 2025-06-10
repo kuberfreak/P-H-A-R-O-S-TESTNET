@@ -786,7 +786,7 @@ const main = async () => {
   logger.info(`Delay between cycles set to ${delayMinutes} minutes`);
 
   const proxies = loadProxies();
-  const privateKeys = [process.env.PRIVATE_KEY_1, process.env.PRIVATE_KEY_2].filter(pk => pk);
+  const privateKeys = [process.env.PRIVATE_KEY_1, process.env.PRIVATE_KEY_2, process.env.PRIVATE_KEY_3, process.env.PRIVATE_KEY_4, process.env.PRIVATE_KEY_5, process.env.PRIVATE_KEY_6, process.env.PRIVATE_KEY_7, process.env.PRIVATE_KEY_8, process.env.PRIVATE_KEY_9, process.env.PRIVATE_KEY_10].filter(pk => pk);
   if (!privateKeys.length) {
     logger.error('No private keys found in .env');
     return;
